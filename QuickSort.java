@@ -1,11 +1,3 @@
-/*
- * OpenDSA Project Distributed under the MIT License
- * 
- * Copyright (c) 2011-2016 - Ville Karavirta and Cliff Shaffer
- * 
- * Modifications by Nathan Sprague 2016.
- */
-
 /**
  * Quicksort class.
  */
